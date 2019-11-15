@@ -134,7 +134,11 @@ main{
 
 h2,h3{
     text-align: center;
+    padding-top: 2%;
+    font-size: 26px;
 }
+
+
 
 .featured-product .info:hover {
     position: relative;
@@ -159,6 +163,11 @@ h2,h3{
 .info{
     color: white;
 
+}
+
+.info p{
+    padding-top: 2%;
+    font-size: 26px;
 }
 
 footer p{
