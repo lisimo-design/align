@@ -136,20 +136,23 @@ h2,h3{
     text-align: center;
 }
 
-.featured-product .info{
-    
+.featured-product .info:hover {
+    position: relative;
+
 }
 
 
 
 .product:hover{
       position: relative;
+      
     transition-property: background-color, color;
     transition-duration: 1s;
     transition-timing-function: ease-out;
     background-color:rgb(231, 110, 110);
     color:black;
     box-shadow: 2px 2px 1px black;
+    
 }
 
 
